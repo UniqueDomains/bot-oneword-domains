@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BOT one-word domains still available to buy.
 
-This dataset contains 6,024 .BOT one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,968 .BOT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BOT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bot-oneword-domains&utm_content=description.top) (6,024) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.BOT one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bot-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.csv"><b>⬇️ CSV (6.02K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.json"><b>⬇️ JSON (6.02K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.csv"><b>⬇️ CSV (5.97K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.json"><b>⬇️ JSON (5.97K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bot-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (6.02K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.bot            | premium   | 70       | 34%    | 3      |           |         |         |
-| aaron.bot          | premium   | 88       | 27%    | 5      |           |         |         |
-| abandoned.bot      | available | 58       | 7%     | 9      |           |         |         |
-| abc.bot            | premium   | 102      | 39%    | 3      |           |         |         |
-| abdominal.bot      | available | 82       | 1%     | 9      |           |         |         |
-| abhorrent.bot      | available | 54       | 1%     | 9      |           |         |         |
-| abide.bot          | available | 94       | 15%    | 5      |           |         |         |
-| abiding.bot        | available | 106      | 5%     | 7      |           |         |         |
-| able.bot           | premium   | 80       | 25%    | 4      |           |         |         |
-| aboard.bot         | available | 68       | 6%     | 6      |           |         |         |
-| abomb.bot          | available | 102      | 2%     | 6      |           |         |         |
-| about.bot          | premium   | 94       | 23%    | 5      |           |         |         |
-| abouteast.bot      | available | 58       | 1%     | 10     |           |         |         |
-| aboutship.bot      | available | 70       | 1%     | 10     |           |         |         |
-| abouttime.bot      | available | 60       | 6%     | 10     |           |         |         |
-| aboveabit.bot      | available | 56       | 1%     | 11     |           |         |         |
-| aboveall.bot       | available | 72       | 6%     | 9      |           |         |         |
-| abovecited.bot     | available | 58       | 1%     | 11     |           |         |         |
-| aboveground.bot    | available | 60       | 5%     | 12     |           |         |         |
-| abovementioned.bot | available | 60       | 1%     | 15     |           |         |         |
-| abovenamed.bot     | available | 58       | 1%     | 11     |           |         |         |
-| abovethefold.bot   | available | 44       | 7%     | 14     |           |         |         |
-| abovetheline.bot   | available | 54       | 4%     | 14     |           |         |         |
-| abovewritten.bot   | available | 58       | 1%     | 13     |           |         |         |
-| abroad.bot         | available | 92       | 9%     | 6      |           |         |         |
-| absence.bot        | available | 64       | 5%     | 7      |           |         |         |
-| absent.bot         | available | 102      | 8%     | 6      |           |         |         |
-| absolutely.bot     | available | 96       | 8%     | 10     |           |         |         |
-| absorbed.bot       | available | 72       | 2%     | 8      |           |         |         |
-| absorbing.bot      | available | 70       | 3%     | 9      |           |         |         |
+| Domain             | Status    | Attract. | Demand | Length | Registrar       | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | --------------- | ---------------- | ---------------- |
+| aaa.bot            | premium   | 70       | 34%    | 3      |                 |                  |                  |
+| aaron.bot          | premium   | 88       | 27%    | 5      |                 |                  |                  |
+| abandoned.bot      | available | 58       | 12%    | 9      |                 |                  |                  |
+| abc.bot            | premium   | 102      | 39%    | 3      |                 |                  |                  |
+| abdominal.bot      | available | 82       | 3%     | 9      |                 |                  |                  |
+| abhorrent.bot      | available | 54       | 2%     | 9      |                 |                  |                  |
+| abide.bot          | available | 94       | 15%    | 5      |                 |                  |                  |
+| abiding.bot        | available | 106      | 7%     | 7      |                 |                  |                  |
+| aboard.bot         | available | 68       | 6%     | 6      |                 |                  |                  |
+| abomb.bot          | available | 102      | 2%     | 6      |                 |                  |                  |
+| about.bot          | premium   | 94       | 36%    | 5      |                 |                  |                  |
+| abouteast.bot      | available | 58       | 1%     | 10     |                 |                  |                  |
+| aboutship.bot      | available | 70       | 1%     | 10     |                 |                  |                  |
+| abouttime.bot      | available | 60       | 6%     | 10     |                 |                  |                  |
+| aboveabit.bot      | available | 56       | 1%     | 11     |                 |                  |                  |
+| aboveall.bot       | available | 72       | 6%     | 9      |                 |                  |                  |
+| abovecited.bot     | available | 58       | 1%     | 11     |                 |                  |                  |
+| aboveground.bot    | available | 60       | 5%     | 12     |                 |                  |                  |
+| abovementioned.bot | available | 60       | 1%     | 15     |                 |                  |                  |
+| abovenamed.bot     | available | 58       | 1%     | 11     |                 |                  |                  |
+| abovethefold.bot   | available | 44       | 7%     | 14     |                 |                  |                  |
+| abovetheline.bot   | available | 54       | 4%     | 14     |                 |                  |                  |
+| abovewritten.bot   | available | 58       | 1%     | 13     |                 |                  |                  |
+| abroad.bot         | available | 92       | 12%    | 6      |                 |                  |                  |
+| absence.bot        | available | 64       | 5%     | 7      |                 |                  |                  |
+| absent.bot         | available | 102      | 11%    | 6      |                 |                  |                  |
+| absolutely.bot     | available | 96       | 8%     | 10     |                 |                  |                  |
+| absorbed.bot       | available | 72       | 3%     | 8      |                 |                  |                  |
+| absorbing.bot      | available | 70       | 4%     | 9      |                 |                  |                  |
+| abundant.bot       | resell    | 80       | 20%    | 8      | Spaceship, Inc. | 11/05/2025 03:50 | 11/05/2026 03:50 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bot-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.csv"><b>⬇️ CSV (6.02K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.json"><b>⬇️ JSON (6.02K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.csv"><b>⬇️ CSV (5.97K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bot-oneword-domains/blob/main/bot.json"><b>⬇️ JSON (5.97K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bot-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (6.02K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.BOT one word domains]
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,940       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,068       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 75,213       | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 31,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,417       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,575,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -171,7 +171,7 @@ If you want to search & filters the complete database of [.BOT one word domains]
 | .CENTER        | 8,208        | [Github](https://github.com/UniqueDomains/center-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=center-oneword-domains&utm_content=table.link)        |
 | .CEO           | 9,226        | [Github](https://github.com/UniqueDomains/ceo-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ceo-oneword-domains&utm_content=table.link)           |
 | .CFD           | 9,549        | [Github](https://github.com/UniqueDomains/cfd-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cfd-oneword-domains&utm_content=table.link)           |
-| .CHANNEL       | 0            | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
+| .CHANNEL       | 240          | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
 | .CHARITY       | 9,479        | [Github](https://github.com/UniqueDomains/charity-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=table.link)       |
 | .CHAT          | 7,344        | [Github](https://github.com/UniqueDomains/chat-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=table.link)          |
 | .CHEAP         | 9,362        | [Github](https://github.com/UniqueDomains/cheap-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cheap-oneword-domains&utm_content=table.link)         |
@@ -247,7 +247,7 @@ If you want to search & filters the complete database of [.BOT one word domains]
 | .DOMAINS       | 8,939        | [Github](https://github.com/UniqueDomains/domains-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=domains-oneword-domains&utm_content=table.link)       |
 | .DOWNLOAD      | 9,698        | [Github](https://github.com/UniqueDomains/download-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=download-oneword-domains&utm_content=table.link)      |
 | .EARTH         | 6,419        | [Github](https://github.com/UniqueDomains/earth-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=table.link)         |
-| .ECO           | 0            | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
+| .ECO           | 378          | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
 | .EDUCATION     | 8,285        | [Github](https://github.com/UniqueDomains/education-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=table.link)     |
 | .EMAIL         | 6,638        | [Github](https://github.com/UniqueDomains/email-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=email-oneword-domains&utm_content=table.link)         |
 | .ENERGY        | 8,363        | [Github](https://github.com/UniqueDomains/energy-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=table.link)        |
@@ -366,7 +366,7 @@ If you want to search & filters the complete database of [.BOT one word domains]
 | .KIDS          | 9,513        | [Github](https://github.com/UniqueDomains/kids-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=table.link)          |
 | .KIM           | 9,314        | [Github](https://github.com/UniqueDomains/kim-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
 | .KITCHEN       | 9,140        | [Github](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
-| .KIWI          | 0            | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
+| .KIWI          | 399          | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
 | .LA            | 7,906        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
 | .LAND          | 8,107        | [Github](https://github.com/UniqueDomains/land-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
 | .LAT           | 8,298        | [Github](https://github.com/UniqueDomains/lat-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
@@ -616,7 +616,7 @@ If you want to search & filters the complete database of [.BOT one word domains]
 | .WTF           | 7,715        | [Github](https://github.com/UniqueDomains/wtf-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=wtf-oneword-domains&utm_content=table.link)           |
 | .XN--3DS443G   | 0            | [Github](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--3ds443g-oneword-domains&utm_content=table.link)   |
 | .XN--6FRZ82G   | 0            | [Github](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--6frz82g-oneword-domains&utm_content=table.link)   |
-| .XXX           | 0            | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
+| .XXX           | 347          | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
 | .XYZ           | 55,913       | [Github](https://github.com/UniqueDomains/xyz-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xyz-oneword-domains&utm_content=table.link)           |
 | .YACHTS        | 9,447        | [Github](https://github.com/UniqueDomains/yachts-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yachts-oneword-domains&utm_content=table.link)        |
 | .YOGA          | 9,181        | [Github](https://github.com/UniqueDomains/yoga-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yoga-oneword-domains&utm_content=table.link)          |
