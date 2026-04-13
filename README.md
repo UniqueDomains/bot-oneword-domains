@@ -1,20 +1,20 @@
-# Available .BOT One-Word Domains (6,252)
+# Available .BOT One-Word Domains (6,251)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C250%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C252%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C248%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C251%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .bot one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 6,250-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,252 domains** on the canonical page below.
+> **Important:** this repository is a **public 6,248-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **6,251 domains** on the canonical page below.
 
-**Public extract:** 6,250 rows · **Live catalog:** 6,252 domains
+**Public extract:** 6,248 rows · **Live catalog:** 6,251 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/bot`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BOT one-word domain c
 
 ### Files
 
-- `bot.csv` — public CSV extract (6,250 rows)
-- `bot.json` — public JSON extract (6,250 rows)
+- `bot.csv` — public CSV extract (6,248 rows)
+- `bot.json` — public JSON extract (6,248 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -73,17 +73,17 @@ print(df.head())
 | seventeen.bot  | available | $39.99      | $99.99        | 84             | 62     | 9      | name.com        |
 | water.bot      | resell    | $650        | $650          | 108            | 42     | 5      | GoDaddy.com LLC |
 | data.bot       | premium   | $6,500      | $6,500        | 70             | 56     | 4      | namecheap       |
-| hidden.bot     | available | $39.99      | $99.99        | 65             | 35     | 6      | name.com        |
-| wink.bot       | resell    | —           | —             | 104            | 98     | 4      | GoDaddy.com LLC |
+| hidden.bot     | available | $39.99      | $99.99        | 65             | 34     | 6      | name.com        |
+| corporate.bot  | resell    | $138,274.98 | —             | 83             | 31     | 9      | Dynadot, LLC    |
 | business.bot   | premium   | $6,500      | $6,500        | 100            | 53     | 8      | namecheap       |
 | wicked.bot     | available | $39.99      | $99.99        | 70             | 30     | 6      | name.com        |
-| indeed.bot     | resell    | —           | —             | 86             | 85     | 6      | Porkbun LLC     |
+| halt.bot       | resell    | $39.99      | $99.99        | 66             | 13     | 4      | NameCheap, Inc  |
 | art.bot        | premium   | $3,250      | $3,250        | 90             | 52     | 3      | namecheap       |
 | curative.bot   | available | $39.99      | $99.99        | 92             | 27     | 8      | name.com        |
-| authentic.bot  | resell    | —           | —             | 76             | 83     | 9      | EnCirca, Inc.   |
+| wink.bot       | resell    | —           | —             | 104            | 98     | 4      | GoDaddy.com LLC |
 | athletics.bot  | premium   | $130        | $130          | 69             | 52     | 9      | namecheap       |
 | ahead.bot      | available | $39.99      | $99.99        | 76             | 26     | 5      | name.com        |
-| grandprix.bot  | resell    | —           | —             | 76             | 83     | 10     | Spaceship, Inc. |
+| indeed.bot     | resell    | —           | —             | 86             | 85     | 6      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,250-row public sample | 6,252 live domains                               |
+| 6,248-row public sample | 6,251 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
