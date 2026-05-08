@@ -524,6 +524,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2e4f8f9c-7c90-4cb6-ab58-d4be0a8c511c,updates.bot,premium,116,116,54,15,7,namesilo,,
 2e5250e6-2841-4302-abde-745d9611bc02,standardscore.bot,available,64.99,64.99,42,1,14,namesilo,,
 2e7ec72e-124e-4b30-ab86-98c902b6d7a5,officedesk.bot,available,78.98,,55,5,11,namecheap,,
+2ea85a8c-66b8-4509-a6fb-3b65999f05d5,journey.bot,premium,59223.82,,72,34,7,"Dynadot, LLC",27/04/2025 10:23,27/04/2027 10:23
 2eccd6d3-9f40-4f53-aae2-b7d45f09ddae,pianos.bot,available,64.99,64.99,58,11,6,namesilo,,
 2edad6ba-833c-4bb8-b659-8bb26220cb15,keepitmoving.bot,available,78.98,,68,5,14,namecheap,,
 2edbced1-da63-4aad-bbb0-552d8d13625b,samples.bot,resell,,,60,12,7,"NameCheap, Inc",27/11/2023 11:58,27/11/2026 11:58
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c058b0d-f72c-4572-ae57-8717100d07f8,imutation.bot,available,78.98,,76,1,10,namecheap,,
 5c093aac-98c1-4859-9457-484616cdc5ee,excitingness.bot,available,78.98,,68,1,12,namecheap,,
 5c10a7cc-1215-48a6-a5c8-63f4574a4653,surveys.bot,premium,1250,,56,15,7,name.com,,
-5c1ae617-e03b-4270-aa98-207443f6df46,pestcontrol.bot,available,78.98,,74,18,12,namecheap,,
