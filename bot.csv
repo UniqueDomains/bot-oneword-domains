@@ -868,6 +868,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4f13f6e5-71e8-4d38-80c4-2748045e7bcd,tartarsauce.bot,available,78.98,,76,2,12,namecheap,,
 4f209c7d-792a-4590-8226-72318a7e1a49,wins.bot,available,78.98,,68,21,4,namecheap,,
 4f2ad581-d32a-41eb-b20e-4e035fbc38a2,getoffthemark.bot,available,78.98,,66,0,16,namecheap,,
+4f2fee48-c757-4d3b-95d6-d41a0ab0a13e,NYT.bot,premium,125,,74,14,3,name.com,,
 4f527da9-4783-4037-800b-b76b815b6a62,pinked.bot,available,78.98,,53,5,6,namecheap,,
 4f5815ea-7690-44a9-9432-6712c8e5173e,paparazzi.bot,available,78.98,,71,12,9,namecheap,,
 4f69ce9a-68f2-4580-91ed-9d99e173956e,letterofdismissal.bot,available,78.98,,44,1,19,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b772c69-b0f8-493f-b8df-9d69f379ca97,rubs.bot,available,64.99,64.99,52,6,4,namesilo,,
 5bd78828-37ca-40d0-92e4-99d4af747c35,attends.bot,available,78.98,,54,6,7,namecheap,,
 5be63988-54eb-4009-b8ee-e97845865993,barns.bot,available,64.99,64.99,50,7,5,namesilo,,
-5bfe6da5-367c-4ee0-8782-80691a554a13,porkroast.bot,available,78.98,,59,0,10,namecheap,,
