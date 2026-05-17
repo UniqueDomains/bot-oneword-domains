@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bot one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 8,951 domains · **Median ask:** $301.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/bot`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar     |
 | ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------- |
 | ladies.bot    | available | $78.98     | —             | 80             | 17     | 6      | namecheap     |
-| getup.bot     | available | $78.98     | —             | 82             | 14     | 6      | namecheap     |
+| getup.bot     | available | $78.98     | —             | 82             | 15     | 6      | namecheap     |
 | dogsit.bot    | available | $78.98     | —             | 96             | 2      | 6      | namecheap     |
 | playin.bot    | available | $78.98     | —             | 80             | 10     | 7      | namecheap     |
 | pierogi.bot   | available | $78.98     | —             | 82             | 7      | 7      | namecheap     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
