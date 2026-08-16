@@ -1,10 +1,10 @@
-# Available .BOT One-Word Domains (14,461)
+# Available .BOT One-Word Domains (14,553)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C461%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C553%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bot one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,461 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,553 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,461 domains · **Median ask:** $220.43 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 14,553 domains · **Median ask:** $219.44 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-08-15
+**Last updated:** 2026-08-16
 **Canonical page:** `https://unique.domains/domains/tld/bot`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar       |
-| ------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------- |
-| acne.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| size.bot     | resell    | $7,528.68   | —             | high           | low    | 4      | EnCirca, Inc.   |
-| ago.bot      | premium   | $125        | $125          | medium         | low    | 3      | name.com        |
-| also.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo        |
-| water.bot    | resell    | $650        | $650          | high           | medium | 5      | GoDaddy.com LLC |
-| ale.bot      | premium   | $116        | $116          | medium         | low    | 3      | namesilo        |
-| camo.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo        |
-| unveil.bot   | resell    | $78.98      | —             | high           | low    | 6      | Dynadot, LLC    |
-| apt.bot      | premium   | $125        | —             | high           | low    | 3      | name.com        |
-| dull.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| standard.bot | resell    | $135,370.58 | —             | high           | medium | 8      | Dynadot, LLC    |
-| box.bot      | premium   | $3,125      | —             | medium         | high   | 3      | name.com        |
-| gone.bot     | available | $78.98      | —             | high           | low    | 4      | namecheap       |
-| bit.bot      | resell    | —           | —             | high           | medium | 3      | Porkbun LLC     |
-| cod.bot      | premium   | $116        | $116          | high           | low    | 3      | namesilo        |
-| heel.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| fog.bot      | resell    | —           | —             | high           | low    | 3      | NameCheap, Inc  |
-| dye.bot      | premium   | $116        | $116          | medium         | low    | 3      | namesilo        |
-| lick.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| hub.bot      | resell    | —           | —             | high           | medium | 3      | Dynadot, LLC    |
+| domain       | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar            |
+| ------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| out.bot      | premium   | $625        | —             | high           | low    | 3      | name.com             |
+| feel.bot     | premium   | $625        | —             | high           | low    | 4      | name.com             |
+| come.bot     | premium   | $625        | —             | high           | low    | 4      | name.com             |
+| quiet.bot    | resell    | —           | —             | high           | low    | 5      | NameCheap, Inc       |
+| hello.bot    | resell    | —           | —             | high           | high   | 5      | Atom.com Domains LLC |
+| acne.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo             |
+| size.bot     | resell    | $7,528.68   | —             | high           | low    | 4      | EnCirca, Inc.        |
+| ago.bot      | premium   | $125        | $125          | medium         | low    | 3      | name.com             |
+| also.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo             |
+| water.bot    | resell    | $650        | $650          | high           | medium | 5      | GoDaddy.com LLC      |
+| ale.bot      | premium   | $116        | $116          | medium         | low    | 3      | namesilo             |
+| camo.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo             |
+| unveil.bot   | resell    | $78.98      | —             | high           | low    | 6      | Dynadot, LLC         |
+| apt.bot      | premium   | $125        | —             | high           | low    | 3      | name.com             |
+| dull.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo             |
+| standard.bot | resell    | $135,370.58 | —             | high           | medium | 8      | Dynadot, LLC         |
+| box.bot      | premium   | $3,125      | —             | medium         | high   | 3      | name.com             |
+| gone.bot     | available | $78.98      | —             | high           | low    | 4      | namecheap            |
+| bit.bot      | resell    | —           | —             | high           | medium | 3      | Porkbun LLC          |
+| cod.bot      | premium   | $116        | $116          | high           | low    | 3      | namesilo             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,461 live domains                        |
+| 1,000-row public sample | 14,553 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOT One-Word Domains*. Version 2026-08-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOT One-Word Domains*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
