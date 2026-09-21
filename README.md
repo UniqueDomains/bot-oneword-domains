@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bot one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,754 domains · **Median ask:** $155.06 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/bot`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar       |
-| ------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------- |
-| acne.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| size.bot     | resell    | $7,528.68   | —             | high           | low    | 4      | EnCirca, Inc.   |
-| ago.bot      | premium   | $125        | $125          | medium         | low    | 3      | name.com        |
-| also.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo        |
-| water.bot    | resell    | $650        | $650          | medium         | medium | 5      | GoDaddy.com LLC |
-| ale.bot      | premium   | $116        | $116          | medium         | low    | 3      | namesilo        |
-| camo.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo        |
-| system.bot   | resell    | $625        | $625          | medium         | medium | 6      | Dynadot, LLC    |
-| apt.bot      | premium   | $125        | —             | high           | low    | 3      | name.com        |
-| dull.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| unveil.bot   | resell    | $78.98      | —             | high           | low    | 6      | Dynadot, LLC    |
-| box.bot      | premium   | $3,125      | —             | medium         | high   | 3      | name.com        |
-| gone.bot     | available | $78.98      | —             | high           | low    | 4      | namecheap       |
-| standard.bot | resell    | $135,370.58 | —             | high           | medium | 8      | Dynadot, LLC    |
-| cod.bot      | premium   | $116        | $116          | high           | low    | 3      | namesilo        |
-| heel.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| bit.bot      | resell    | —           | —             | high           | medium | 3      | Porkbun LLC     |
-| dye.bot      | premium   | $116        | $116          | medium         | low    | 3      | namesilo        |
-| lick.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo        |
-| fog.bot      | resell    | —           | —             | high           | low    | 3      | NameCheap, Inc  |
+| domain       | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar            |
+| ------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| feel.bot     | premium   | $625        | —             | high           | low    | 4      | name.com             |
+| come.bot     | premium   | $625        | —             | high           | low    | 4      | name.com             |
+| quiet.bot    | resell    | —           | —             | high           | low    | 5      | NameCheap, Inc       |
+| hello.bot    | resell    | —           | —             | high           | high   | 5      | Atom.com Domains LLC |
+| acne.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo             |
+| size.bot     | resell    | $7,528.68   | —             | high           | low    | 4      | EnCirca, Inc.        |
+| ago.bot      | premium   | $125        | $125          | medium         | low    | 3      | name.com             |
+| also.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo             |
+| water.bot    | resell    | $650        | $650          | medium         | medium | 5      | GoDaddy.com LLC      |
+| ale.bot      | premium   | $116        | $116          | medium         | low    | 3      | namesilo             |
+| camo.bot     | available | $64.99      | $64.99        | high           | low    | 4      | namesilo             |
+| system.bot   | resell    | $625        | $625          | medium         | low    | 6      | Dynadot, LLC         |
+| apt.bot      | premium   | $125        | —             | high           | low    | 3      | name.com             |
+| dull.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo             |
+| unveil.bot   | resell    | $78.98      | —             | high           | low    | 6      | Dynadot, LLC         |
+| cod.bot      | premium   | $116        | $116          | high           | low    | 3      | namesilo             |
+| gone.bot     | available | $78.98      | —             | high           | low    | 4      | namecheap            |
+| standard.bot | resell    | $135,370.58 | —             | high           | medium | 8      | Dynadot, LLC         |
+| dye.bot      | premium   | $116        | $116          | medium         | low    | 3      | namesilo             |
+| heel.bot     | available | $64.99      | $64.99        | medium         | low    | 4      | namesilo             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOT One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOT One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
